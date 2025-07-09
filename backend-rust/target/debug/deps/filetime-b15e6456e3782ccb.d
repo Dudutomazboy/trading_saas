@@ -1,0 +1,10 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/filetime-b15e6456e3782ccb.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/utimes.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/macos.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libfiletime-b15e6456e3782ccb.rlib: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/utimes.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/macos.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libfiletime-b15e6456e3782ccb.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/utimes.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/macos.rs
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/mod.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/utimes.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/filetime-0.2.25/src/unix/macos.rs:

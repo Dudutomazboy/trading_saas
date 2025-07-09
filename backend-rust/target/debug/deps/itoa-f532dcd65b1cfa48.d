@@ -1,0 +1,6 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/itoa-f532dcd65b1cfa48.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/udiv128.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libitoa-f532dcd65b1cfa48.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/udiv128.rs
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.15/src/udiv128.rs:

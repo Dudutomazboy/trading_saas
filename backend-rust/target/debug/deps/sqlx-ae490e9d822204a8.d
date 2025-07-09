@@ -1,0 +1,11 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/sqlx-ae490e9d822204a8.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/ty_match.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.md /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/test.md /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/install_drivers_note.md
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libsqlx-ae490e9d822204a8.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/ty_match.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.md /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/test.md /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/install_drivers_note.md
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/mod.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/mod.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/ty_match.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/lib.md:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/macros/test.md:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlx-0.7.4/src/any/install_drivers_note.md:

@@ -1,0 +1,1 @@
+std::option::Option<f64>: From<std::option::Option<sqlx::types::BigDecimal>>

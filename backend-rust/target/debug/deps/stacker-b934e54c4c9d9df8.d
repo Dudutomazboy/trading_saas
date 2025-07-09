@@ -1,0 +1,10 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/stacker-b934e54c4c9d9df8.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/macos.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libstacker-b934e54c4c9d9df8.rlib: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/macos.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libstacker-b934e54c4c9d9df8.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/macos.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/macos.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs:

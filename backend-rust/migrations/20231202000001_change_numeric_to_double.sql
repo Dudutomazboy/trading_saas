@@ -1,0 +1,18 @@
+-- Change NUMERIC columns to DOUBLE PRECISION for better compatibility
+ALTER TABLE trades 
+    ALTER COLUMN volume TYPE DOUBLE PRECISION,
+    ALTER COLUMN entry_price TYPE DOUBLE PRECISION,
+    ALTER COLUMN exit_price TYPE DOUBLE PRECISION,
+    ALTER COLUMN stop_loss TYPE DOUBLE PRECISION,
+    ALTER COLUMN take_profit TYPE DOUBLE PRECISION,
+    ALTER COLUMN profit_loss TYPE DOUBLE PRECISION,
+    ALTER COLUMN commission TYPE DOUBLE PRECISION,
+    ALTER COLUMN swap TYPE DOUBLE PRECISION,
+    ALTER COLUMN ai_confidence TYPE DOUBLE PRECISION;
+
+ALTER TABLE trading_sessions 
+    ALTER COLUMN total_profit TYPE DOUBLE PRECISION;
+
+-- Make ai_reasoning nullable in all tables
+ALTER TABLE trades 
+    ALTER COLUMN ai_reasoning DROP NOT NULL;

@@ -1,0 +1,1 @@
+(uuid::Uuid, uuid::Uuid, std::string::String, std::string::String, uuid::Uuid, std::string::String, JsonValue, JsonValue, bool, i32, i32, sqlx::types::BigDecimal, DateTime<Utc>, DateTime<Utc>)

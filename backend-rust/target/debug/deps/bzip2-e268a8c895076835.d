@@ -1,0 +1,11 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/bzip2-e268a8c895076835.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/mem.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/bufread.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/read.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/write.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libbzip2-e268a8c895076835.rlib: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/mem.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/bufread.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/read.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/write.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libbzip2-e268a8c895076835.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/mem.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/bufread.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/read.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/write.rs
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/mem.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/bufread.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/read.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bzip2-0.4.4/src/write.rs:

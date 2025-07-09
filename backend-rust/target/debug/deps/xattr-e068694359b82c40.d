@@ -1,0 +1,11 @@
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/xattr-e068694359b82c40.d: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/error.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/util.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/linux_macos.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libxattr-e068694359b82c40.rlib: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/error.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/util.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/linux_macos.rs
+
+/Users/eduardotomaz/projects/bot/website/backend-rust/target/debug/deps/libxattr-e068694359b82c40.rmeta: /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/lib.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/error.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/mod.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/util.rs /Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/linux_macos.rs
+
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/lib.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/error.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/mod.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/util.rs:
+/Users/eduardotomaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.1/src/sys/linux_macos.rs:
